@@ -10,7 +10,7 @@ Project ini membuat tampilan Slicing dari Figma ke Flutter
 
 ### Onboard UI - Figma
 
-![Alt text](Onboarding UI.jpg)
+![screenshot](Onboarding UI.jpg)
 
 ### Slicing to Flutter
 
